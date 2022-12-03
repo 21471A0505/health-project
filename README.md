@@ -7,10 +7,11 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://proud-beach-09931fd00.2.azurestaticapps.net/contact.html
-** project demo video link** -
+** project demo video link** -https://youtu.be/NiTafNHeRC8
 
 ## Azure technologies used for project
  -Static web apps
+ 
  -Health bot
  
 
