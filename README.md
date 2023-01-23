@@ -33,8 +33,25 @@ This is a web based application developed for health related telugu based websit
 <img width="960" alt="Capture" src="https://user-images.githubusercontent.com/98723571/205435998-6d8c9976-3b27-431f-9f8b-d722c0b2a10b.PNG">
 
 
+![Screenshot (291)](https://user-images.githubusercontent.com/98723571/214096741-01e89988-75f1-49b4-b67d-58c2e20dd107.png)
 
-   
+   ![Screenshot (292)](https://user-images.githubusercontent.com/98723571/214096788-d35a4462-555d-40b6-b8e0-3b319d467720.png)
+
+![Screenshot (293)](https://user-images.githubusercontent.com/98723571/214096828-bc19d902-08e0-4529-8063-267e56c11e22.png)
+
+![Screenshot (294)](https://user-images.githubusercontent.com/98723571/214096846-15a87ea7-c4dc-4376-9608-4c03f0e08aae.png)
+![Screenshot (295)](https://user-images.githubusercontent.com/98723571/214096859-09f30d46-c9c1-45dd-aeaa-893c564df9f6.png)
+
+![Screenshot (296)](https://user-images.githubusercontent.com/98723571/214096874-2e3114e1-53e2-45c0-b8db-be348a1bfae2.png)
+![Screenshot (297)](https://user-images.githubusercontent.com/98723571/214096900-356b665c-90cc-4ed1-a929-bcd45394c889.png)
+![Screenshot (298)](https://user-images.githubusercontent.com/98723571/214096916-fcaf9804-df88-4866-9f85-f10566ebb4b0.png)
+
+![Screenshot (299)](https://user-images.githubusercontent.com/98723571/214096942-49198fc8-097e-4618-a4c6-d99caab5de32.png)
+![Screenshot (300)](https://user-images.githubusercontent.com/98723571/214096964-da24d3a7-3839-41da-b5d9-f97dbe3bdfdc.png)
+
+![Screenshot (301)](https://user-images.githubusercontent.com/98723571/214096994-60623cc0-cd11-45f3-9d6c-0bcdfa7a1030.png)
+
+
 
 ### About Us -
 
